@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A9988A398FC780FE77C64681778993B9F3C5694A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F362B5F368502E5241867125A449869D1DC33274" : 9223372036854775807,
+    "A9988A398FC780FE77C64681778993B9F3C5694A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C431DA39-5F27-449D-98F7-C9B645D58E77",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F362B5F368502E5241867125A449869D1DC33274" : "..\/..",
+    "A9988A398FC780FE77C64681778993B9F3C5694A" : "ESTabBarController\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ESTabBarController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ESTabBarController\/ESTabBarController.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jdmarshall90\/ESTabBarController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9988A398FC780FE77C64681778993B9F3C5694A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/bitbucket.org\/jdmarshall\/milkstache.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F362B5F368502E5241867125A449869D1DC33274"
+    }
+  ]
+}
